@@ -93,3 +93,5 @@ streamlit run main.py
 ```
 
 ## 7. 실행 화면
+<img width="1321" height="637" alt="스크린샷 2026-02-12 154604" src="https://github.com/user-attachments/assets/153e215e-b5a5-4e6f-bf2f-4c8d9c604e38" />
+
